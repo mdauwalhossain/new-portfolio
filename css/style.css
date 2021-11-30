@@ -79,7 +79,7 @@ a:focus, a:hover {
 	margin:0
 }
 .banner-agile {
-	background: url(https://webneel.net/image/logo/9-creative-logo-design-web-developer.jpg) no-repeat 0px 0px;
+	background: url("../images/background.jpg") no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
