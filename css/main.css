@@ -23,7 +23,8 @@
 .header-icons .icon:active,
 .header-icons .icon:hover {
     color: #0ee62a;
-    background: #fff
+    background: #fff;
+    border-radius: 2px solid goldenrod;
 }
 
 @media only screen and (min-width:550px) {
