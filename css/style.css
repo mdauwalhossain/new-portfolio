@@ -981,7 +981,7 @@ input[type="text"], input[type="email"], .contact-right-w3l textarea{
     margin: 12px 0px;
 	font-family: 'Nunito', sans-serif;
 	border-style: double;
-   border-radius: 2px;
+   border-radius: 4px;
 	background: transparent;
 }
 input[type="submit"] {
