@@ -980,8 +980,8 @@ input[type="text"], input[type="email"], .contact-right-w3l textarea{
     color: #000;
     margin: 12px 0px;
 	font-family: 'Nunito', sans-serif;
-    border: none;
-    border-bottom: 1px solid #000;
+	border-style: double;
+   border-radius: 2px;
 	background: transparent;
 }
 input[type="submit"] {
