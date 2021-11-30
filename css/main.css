@@ -1,7 +1,37 @@
 .header-icons {
+  /* display: flex; */
   justify-content: center;
-  text-align: center;
-  font-size: 35px;
+  text-align: center
+}
+
+
+.header-icons .icon {
+    color: #fff;
+    text-align: center
+}
+
+/* .header-icons .icon {
+    height: 20px;
+    padding: 10px;
+    border: 2px solid #fff;
+    transition: all .7s;
+    width: 20px;
+    font-size: 20px;
+    margin: 5px
+} */
+
+.header-icons .icon:active,
+.header-icons .icon:hover {
+    color: #0ee62a;
+    background: #fff
+}
+
+@media only screen and (min-width:550px) {
+    .header-icons .icon {
+        width: 35px;
+        height: 35px;
+        font-size: 35px
+    }
 }
 
 
